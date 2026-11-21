@@ -1,0 +1,4 @@
+name: aigrow_provider
+title: AIGROW Provider
+description: Adds AIGROW as a chat model provider in Agent Zero, with Claude, GPT, Gemini, Grok, Qwen and Kimi models through an OpenAI-compatible API.
+version: 1.0.0
